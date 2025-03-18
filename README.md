@@ -3,18 +3,20 @@
 My name is Axel Calås, i'm a Full Stack Software Engineer 🖥️
 <br></h2>
 
+### 
+<h3 align="center">My statistics</h3>
 
-My statistics ### 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iKingCold&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iKingCold&theme=github_dark" />
 </div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iKingCold&theme=default)
-#
-
-<img align="right" height="150" src="https://i.gifer.com/3HeZ.gif"  />
 
 ###
+
+<img align="right" height="150" src="https://i.gifer.com/3HeZ.gif" />
+
+###
+<h3 align="center">My skills</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -54,7 +56,7 @@ My statistics ###
 </div>
 
 ###
-
+<h3 align="center">Contact me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/axel-cal%C3%A5s-7a3276a0/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
