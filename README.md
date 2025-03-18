@@ -7,9 +7,9 @@ My name is Axel Calås, i'm a Full Stack Software Engineer 🖥️
 My statistics ### 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikingcold&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikingcold&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iKingCold&theme=github_dark" />
 </div>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iKingCold&theme=default)
 #
 
 <img align="right" height="150" src="https://i.gifer.com/3HeZ.gif"  />
