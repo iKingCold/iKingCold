@@ -4,6 +4,7 @@ My name is Axel Calås, i'm a Full Stack Software Engineer 🖥️
 <br></h2>
 
 <h3 align="center">My statistics</h3>
+###
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iKingCold&theme=github_dark" />
@@ -11,6 +12,7 @@ My name is Axel Calås, i'm a Full Stack Software Engineer 🖥️
 </div>
 
 # <h3 align="center">My skills</h3>
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
@@ -50,6 +52,7 @@ My name is Axel Calås, i'm a Full Stack Software Engineer 🖥️
 </div>
 
 # <h3 align="center">Contact me</h3>
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/axel-cal%C3%A5s-7a3276a0/" target="_blank" style="text-decoration: none;">
