@@ -3,7 +3,8 @@
 <h3 align="center">My name is Axel Calås, I'm a Full Stack Software Engineer 🖥️ <br>
 I enjoy tackling complex problems & have a great interest in security.</h3<br>
 
-<h3 align="center">My statistics</h3>
+# <h3 align="center">My statistics</h3>
+###
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iKingCold&theme=github_dark" />
