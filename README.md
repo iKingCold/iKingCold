@@ -3,8 +3,7 @@
 My name is Axel Calås, i'm a Full Stack Software Engineer 🖥️
 <br></h2>
 
-# <h3 align="center">My statistics</h3>
-###
+<h3 align="center">My statistics</h3>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iKingCold&theme=github_dark" />
