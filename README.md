@@ -2,9 +2,6 @@
 <br>
 My name is Axel Calås, i'm a Full Stack Software Engineer 🖥️</h2>
 
-#
-
-
 ### My statistics
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikingcold&theme=github_dark" />
