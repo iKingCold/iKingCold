@@ -74,9 +74,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/iKingCold/iKingCold/output/snake.svg" alt="Snake animation" />
-
-###
