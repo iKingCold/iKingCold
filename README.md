@@ -1,6 +1,6 @@
 <h2 align="center">Hello World!👋
 <br>
-My name is Axel Calås, i'm a Full Stack Software Engineer 🖥️
+My name is Axel Calås, I'm a Full Stack Software Engineer 🖥️
 <br></h2>
 
 <h3 align="center">My statistics</h3>
