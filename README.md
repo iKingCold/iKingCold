@@ -1,7 +1,7 @@
-<h2 align="center">Hello World!👋
-<br>
-My name is Axel Calås, I'm a Full Stack Software Engineer 🖥️
-<br></h2>
+<h2 align="center">Hello World!👋</h2><br>
+
+<h3>>My name is Axel Calås, I'm a Full Stack Software Engineer 🖥️ <br>
+I enjoy tackling complex problems & have a great interest in security.</h3<br>
 
 <h3 align="center">My statistics</h3>
 
