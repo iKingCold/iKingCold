@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  ![GitHub statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikingcold&theme=github_dark)
-  ![Top languages by repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikingcold&theme=github_dark)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikingcold&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikingcold&theme=github_dark" />
 </div>
 
 ###
